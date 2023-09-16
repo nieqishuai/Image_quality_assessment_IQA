@@ -1,0 +1,11 @@
+参数设置：
+lda_out_channels    16
+hyper_in_channels   112
+target_in_size      224
+target_fc1_size     112
+target_fc2_size     56
+target_fc3_size     28
+target_fc4_size     14
+feature_size        7
+输入图片大小			224x224
+
