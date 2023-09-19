@@ -3,3 +3,4 @@
 如需要数据集，可以自行下载，实在找不到也可以通过邮箱联系。
 
 本人为新人，可能不知道很多规则，如有侵权，请联系nieqishaui@163.com，将立刻进行删除。
+![3238dc4c2759709ab961e727253715d](https://github.com/nieqishuai/Image_quality_assessment_IQA/assets/102056981/14a615b1-1189-4587-9946-95c9b631f0d6)
